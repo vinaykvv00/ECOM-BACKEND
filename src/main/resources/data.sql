@@ -1,0 +1,22 @@
+INSERT INTO product (name, description, brand, price, category, release_date, product_available, stock_quantity)
+VALUES
+('Laptop Pro 15', 'High performance laptop with Intel i7 processor, 16GB RAM, 512GB SSD', 'Dell', 79999.99, 'Electronics', '2025-01-15', true, 12),
+('Samsung Galaxy S24', 'Latest flagship smartphone with 6.8" display and 200MP camera', 'Samsung', 79999.00, 'Electronics', '2025-02-10', true, 25),
+('Sony WH-1000XM5', 'Premium noise cancelling wireless headphones with 30hr battery', 'Sony', 29999.50, 'Accessories', '2024-12-05', true, 45),
+('iPhone 16 Pro', 'Apple flagship with A18 Pro chip and advanced camera system', 'Apple', 99999.00, 'Electronics', '2024-09-20', true, 30),
+('Philips Air Fryer', 'Digital air fryer with 6.2L capacity and 13 preset programs', 'Philips', 12999.99, 'Home Appliances', '2023-11-20', true, 18),
+('Logitech G Pro X60', 'Professional gaming mouse with ultra-lightweight design', 'Logitech', 8999.00, 'Accessories', '2025-03-01', true, 75),
+('Herman Miller Aeron', 'Premium ergonomic office chair with adjustable lumbar support', 'Herman Miller', 139999.99, 'Furniture', '2024-09-15', true, 8),
+('iPad Pro 12.9"', 'Tablet with M4 chip, ProMotion 120Hz display, and Apple Pencil support', 'Apple', 119999.00, 'Electronics', '2025-01-08', true, 20),
+('Google Pixel 9 Pro', 'Flagship phone with advanced AI features and superior camera', 'Google', 79999.00, 'Electronics', '2024-10-04', true, 22),
+('Bose QuietComfort Ultra', 'Noise cancelling earbuds with up to 8 hours battery life', 'Bose', 39999.00, 'Accessories', '2025-02-14', true, 35),
+('Samsung 75" 4K TV', '75-inch QLED TV with 4K resolution and smart features', 'Samsung', 199999.99, 'Electronics', '2024-08-22', true, 5),
+('Microsoft Surface Laptop 6', 'Thin and light laptop with Snapdragon X processor', 'Microsoft', 139999.00, 'Electronics', '2025-01-20', true, 10),
+('Nintendo Switch OLED', 'Gaming console with 7-inch OLED display', 'Nintendo', 38999.00, 'Gaming', '2024-07-15', true, 40),
+('Sony 65" BRAVIA XR', '65-inch premium LED TV with cognitive processor', 'Sony', 149999.99, 'Electronics', '2024-09-10', true, 6),
+('Apple Watch Series 10', 'Smartwatch with health monitoring and fitness tracking', 'Apple', 39999.00, 'Accessories', '2024-10-15', true, 50),
+('Mechanical Gaming Keyboard', 'RGB mechanical keyboard with Cherry MX switches', 'Corsair', 9999.00, 'Accessories', '2025-02-01', true, 60),
+('Portable SSD 2TB', 'External solid state drive with USB-C 3.2, 2TB storage', 'Samsung', 24999.00, 'Storage', '2024-11-05', true, 55),
+('Wireless Charging Pad', 'Fast wireless charger supporting 15W charging', 'Anker', 1999.00, 'Accessories', '2024-12-10', true, 120),
+('4K Webcam', 'Professional 4K USB webcam with auto-focus and noise reduction', 'Logitech', 7999.00, 'Accessories', '2025-01-12', true, 30),
+('Premium Monitor Stand', 'Adjustable dual monitor stand with cable management', 'HUANUO', 3999.00, 'Furniture', '2024-11-20', true, 25);
